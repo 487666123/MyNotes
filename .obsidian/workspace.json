@@ -11,10 +11,14 @@
             "id": "6e47b42585372d1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript 笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "JavaScript 笔记"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb4cbffac7cafd0",
+  "active": "6e47b42585372d1e",
   "lastOpenFiles": [
     "README.md",
     "JavaScript 笔记.md",
