@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c8ac8888b323fbd2",
+        "id": "5c62579b07a4aebb",
         "type": "tabs",
         "children": [
           {
-            "id": "b6807ba9f12c042a",
+            "id": "6e47b42585372d1e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,8 +167,8 @@
   },
   "active": "6cb4cbffac7cafd0",
   "lastOpenFiles": [
-    "JavaScript 笔记.md",
     "README.md",
+    "JavaScript 笔记.md",
     "未命名.canvas",
     "买.md",
     "王志浩.md",
